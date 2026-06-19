@@ -6,13 +6,13 @@ Drop it into any script or service that calls Gemini, and every request becomes 
 
 ## Local CLI Responses
 
-![local CLI call 1/2 response](images\CLI_response_1.png.png)
-![local CLI call 2/2 response](images\CLI_response_2.png.png)
+![local CLI call 1/2 response](images\CLI_response_1.png)
+![local CLI call 2/2 response](images\CLI_response_2.png)
 
 ## Langfuse Trace Records
 
-![Trace record part 1](images\trace_record_1.png.png)
-![Trace record part 2](images\trace_record_2.png.png)
+![Trace record part 1](images\trace_record_1.png)
+![Trace record part 2](images\trace_record_2.png)
 
 ---
 
